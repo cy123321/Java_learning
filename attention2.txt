@@ -1,0 +1,21 @@
+import的时候，假如public类的成员变量不为public，也是不能直接调用的。
+import PackageName.*
+import PackageName.ClassName
+
+4种：public；protected(inheritance)；private；default(package friendly)
+
+delegation？
+
+final不可重写
+
+多态形成的条件
+	继承
+	重写
+	父类引用指向子类对象
+	
+private对结果的影响？？
+
+抽象类：需要其他具体的类来支撑
+接口成员变量必须是public，final，static
+
+Java不支持多继承多个父类但支持多个接口
