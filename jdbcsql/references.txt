@@ -1,0 +1,4 @@
+1、关于SQL连接和查询：
+	http://blog.csdn.net/u012161600/article/details/45290557
+2、关于SQL增删改：
+	http://blog.csdn.net/ACM_TH/article/details/49225753
